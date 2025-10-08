@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi 👋, I'm Tarla Mani Teja
+## Hi there 👋 I'm Tarla Mani Teja
 
 🎓 **Final Year Cybersecurity Student**  
 🔐 **Passionate about:** Ethical Hacking | SOC Operations | Threat Analysis  
